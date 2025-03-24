@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-1002">
+    <generator>Inform Mac Client (Inform version )</generator>
+    <item nodeId="node-1002">
+        <command xml:space="preserve">Échappée de l'Illusion Systémique</command>
+        <result xml:space="preserve">
+
+
+Échappée de l'Illusion Systémique
+An Interactive Fiction by Mirlinda Sinanaj
+Release 1 / Serial number 250324 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
+Vous vous retrouvez dans un environnement énigmatique où chaque lieu semble chargé de mystères. Votre objectif est de comprendre et d'échapper aux illusions imposées pour retrouver votre liberté.
+
+Starting Point
+Vous êtes au point de départ d'un voyage initiatique. Trois chemins s'offrent à vous : vers l'est, une lumière douce ; vers l'ouest, une ombre profonde ; et vers le nord, un murmure constant. Ici, la promesse d'une vérité vous invite, mais saurez-vous distinguer l'illusion de la réalité ?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1005"></child>
+        </children>
+    </item>
+    <item nodeId="node-1005">
+        <command xml:space="preserve">est</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1006"></child>
+        </children>
+    </item>
+    <item nodeId="node-1006">
+        <command xml:space="preserve">go east</command>
+        <result xml:space="preserve">
+East Clearing
+Une clairière baignée d'une lumière chaleureuse, mais étrangement intimidante. Les rayons du soleil forment des motifs sur le sol, comme un langage secret.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1007"></child>
+        </children>
+    </item>
+    <item nodeId="node-1007">
+        <command xml:space="preserve">aller au nord</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+</Skein>
