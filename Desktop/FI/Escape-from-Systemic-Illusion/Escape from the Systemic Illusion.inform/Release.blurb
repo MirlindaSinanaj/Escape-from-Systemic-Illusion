@@ -1,0 +1,57 @@
+! Blurb file created by Inform build 6M62
+
+status "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/CblorbModel.html" "/Users/mirlindasinanaj/Desktop/FI/Escape-from-Systemic-Illusion/Escape from the Systemic Illusion.inform/Build/StatusCblorb.html"
+
+
+! Identification
+
+project folder "/Users/mirlindasinanaj/Desktop/FI/Escape-from-Systemic-Illusion/Escape from the Systemic Illusion.inform"
+release to "/Users/mirlindasinanaj/Desktop/FI/Escape-from-Systemic-Illusion/Escape from the Systemic Illusion.materials/Release"
+
+! Blorb instructions
+
+storyfile leafname "Escape from the Systemic Illusi.gblorb"
+storyfile "/Users/mirlindasinanaj/Desktop/FI/Escape-from-Systemic-Illusion/Escape from the Systemic Illusion.inform/Build/output.ulx" include
+ifiction "/Users/mirlindasinanaj/Desktop/FI/Escape-from-Systemic-Illusion/Escape from the Systemic Illusion.inform/Metadata.iFiction" include
+cover "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/Cover.jpg"
+picture 1 "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/Cover.jpg"
+release file "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/Cover.jpg"
+release file "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/Small Cover.jpg"
+
+! Placeholder variables
+
+placeholder [IFID] = "5DF3C2F9-FBA2-477C-9D3B-0DAECC886E96"
+placeholder [RELEASE] = "1"
+placeholder [YEAR] = "2025"
+placeholder [TITLE] = "Escape from the Systemic Illusion"
+placeholder [AUTHOR] = "Mirlinda Sinanaj"
+placeholder [BLURB] = "A work of interactive fiction."
+
+! Other material to release
+
+
+! Website instructions
+
+placeholder [ENCODEDSTORYFILE] = "Escape from the Systemic Illusi.gblorb.js"
+template path "/Users/mirlindasinanaj/Desktop/FI/Escape-from-Systemic-Illusion/Escape from the Systemic Illusion.materials/Templates"
+template path "/Users/mirlindasinanaj/Library/Inform/Templates"
+template path "/Applications/Inform.app/Contents/Resources/Internal/Templates"
+placeholder [INTERPRETERSCRIPTS] = " "
+interpreter "Quixe" "g"
+base64 "/Users/mirlindasinanaj/Desktop/FI/Escape-from-Systemic-Illusion/Escape from the Systemic Illusion.inform/Build/output.ulx" to "/Users/mirlindasinanaj/Desktop/FI/Escape-from-Systemic-Illusion/Escape from the Systemic Illusion.materials/Release/interpreter/Escape from the Systemic Illusi.gblorb.js"
+
+! Website instructions
+
+template path "/Users/mirlindasinanaj/Desktop/FI/Escape-from-Systemic-Illusion/Escape from the Systemic Illusion.materials/Templates"
+template path "/Users/mirlindasinanaj/Library/Inform/Templates"
+template path "/Applications/Inform.app/Contents/Resources/Internal/Templates"
+css
+website "Standard"
+status instruction ||&nbsp;<a href="source:story.ni#line544"><img border=0 src=inform:/doc_images/Reveal.tif></a>||
+status alternative ||Using 'Release along with cover art', to provide something more distinctive than the default artwork above&nbsp;<a href=inform:/doc403.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with a file of "Such-and-Such" called "whatever.pdf"', perhaps to add a manual, or a welcoming note&nbsp;<a href=inform:/doc401.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with the source text'&nbsp;<a href=inform:/doc412.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with a solution'&nbsp;<a href=inform:/doc411.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with the library card'&nbsp;<a href=inform:/doc412.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with the introductory booklet'&nbsp;<a href=inform:/doc404.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with the introductory postcard'&nbsp;<a href=inform:/doc404.html><img border=0 src=inform:/doc_images/help.png></a>||

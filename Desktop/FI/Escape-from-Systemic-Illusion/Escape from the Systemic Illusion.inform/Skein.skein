@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-1010">
+    <generator>Inform Mac Client (Inform version )</generator>
+    <item nodeId="node-1010">
+        <command xml:space="preserve">Escape from the Systemic Illusion</command>
+        <result xml:space="preserve">
+
+
+ESCAPE FROM THE SYSTEMIC ILLUSION
+A journey through deception to find your true self
+You find yourself in an enigmatic environment where every place is steeped in mystery. Your goal is to understand and escape the imposed illusions to reclaim your freedom.
+
+Escape from the Systemic Illusion
+An Interactive Fiction by Mirlinda Sinanaj
+Release 1 / Serial number 250501 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
+
+Starting Point
+You are at the starting point of an initiatory journey. Three paths lie before you: to the east, a gentle light; to the west, a deep shadow; and to the north, a constant whisper. Here, the promise of truth beckons-but can you distinguish illusion from reality?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1014"></child>
+            <child nodeId="node-1011"></child>
+        </children>
+    </item>
+    <item nodeId="node-1011">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">
+Northern Whispers
+Voices surround you, whispering truths you do not yet understand. Each whisper seems a promise, but their origin remains hidden.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1012"></child>
+        </children>
+    </item>
+    <item nodeId="node-1012">
+        <command xml:space="preserve">east</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1013"></child>
+        </children>
+    </item>
+    <item nodeId="node-1013">
+        <command xml:space="preserve">examine carved stone</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1014">
+        <command xml:space="preserve">east</command>
+        <result xml:space="preserve">DEBUG: Départ autorisé.
+
+East Clearing
+A clearing bathed in warm, yet oddly intimidating light. Sunrays form patterns on the ground, like a secret language.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1024"></child>
+            <child nodeId="node-1015"></child>
+        </children>
+    </item>
+    <item nodeId="node-1015">
+        <command xml:space="preserve">west</command>
+        <result xml:space="preserve">DEBUG: Mobilité normale.
+
+Starting Point
+You are at the starting point of an initiatory journey. Three paths lie before you: to the east, a gentle light; to the west, a deep shadow; and to the north, a constant whisper. Here, the promise of truth beckons-but can you distinguish illusion from reality?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1016"></child>
+        </children>
+    </item>
+    <item nodeId="node-1016">
+        <command xml:space="preserve">west</command>
+        <result xml:space="preserve">DEBUG: Départ autorisé.
+
+West Path
+A dark path lined with imposing trees, where everything seems to be watching you. The branches cast disturbing shadows, as if trying to hold you back.
+
+[Tip: Use EXAMINE to look closely at objects, and INVENTORY or I to check what you're carrying.]
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1017"></child>
+        </children>
+    </item>
+    <item nodeId="node-1017">
+        <command xml:space="preserve">east</command>
+        <result xml:space="preserve">DEBUG: Mobilité normale.
+
+Starting Point
+You are at the starting point of an initiatory journey. Three paths lie before you: to the east, a gentle light; to the west, a deep shadow; and to the north, a constant whisper. Here, the promise of truth beckons-but can you distinguish illusion from reality?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1018"></child>
+        </children>
+    </item>
+    <item nodeId="node-1018">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">DEBUG: Départ autorisé.
+
+Northern Whispers
+Voices surround you, whispering truths you do not yet understand. Each whisper seems a promise, but their origin remains hidden.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1023"></child>
+            <child nodeId="node-1019"></child>
+        </children>
+    </item>
+    <item nodeId="node-1019">
+        <command xml:space="preserve">west</command>
+        <result xml:space="preserve">You can't go that way.
+
+[Tip: Try using SOLVE when in locations that seem puzzling.]
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1020"></child>
+        </children>
+    </item>
+    <item nodeId="node-1020">
+        <command xml:space="preserve">northwest</command>
+        <result xml:space="preserve">DEBUG: Mobilité normale.
+
+Hidden Glade
+A secret glade. The air is heavy, as if time itself had stopped. An ancient stele lies at the center, engraved with enigmatic inscriptions.
+
+You can see a Carved Stone here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1021"></child>
+        </children>
+    </item>
+    <item nodeId="node-1021">
+        <command xml:space="preserve">take carved stone</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1022"></child>
+        </children>
+    </item>
+    <item nodeId="node-1022">
+        <command xml:space="preserve">examine carved stonee</command>
+        <result xml:space="preserve">I only understood you as far as wanting to examine the Carved Stone.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1023">
+        <command xml:space="preserve">east</command>
+        <result xml:space="preserve">You can't go that way.
+
+[Tip: Try using SOLVE when in locations that seem puzzling.]
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1024">
+        <command xml:space="preserve">examine</command>
+        <result xml:space="preserve">What do you want to examine?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1025"></child>
+        </children>
+    </item>
+    <item nodeId="node-1025">
+        <command xml:space="preserve">examine clearing</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1026"></child>
+        </children>
+    </item>
+    <item nodeId="node-1026">
+        <command xml:space="preserve">examine Clearing</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+</Skein>
