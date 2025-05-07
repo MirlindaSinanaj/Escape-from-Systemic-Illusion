@@ -17,7 +17,7 @@ The player must learn to question appearances, resist manipulation, and embrace 
 
 ## How to Play
 
-You can [**download the game here**](https://github.com/MirlindaSinanaj/Escape-from-Systemic-Illusion/archive/refs/tags/v1.0.0.tar.gz).
+You can [**download the game here**](https://github.com/MirlindaSinanaj/Escape-from-Systemic-Illusion/archive/refs/tags/v1.0.tar.gz).
 
 After downloading:
 - Extract the archive if necessary.
