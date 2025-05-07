@@ -12,7 +12,7 @@ Through exploration, puzzles, and emotional choices, the player must navigate he
 
 The player must learn to question appearances, resist manipulation, and embrace her own understanding to achieve true liberation.
 
-![Screenshot de la Hidden Glade](Capture d’écran 2025-05-07 à 17.19.24.png)
+![Screenshot de la Hidden Glade](FI.png)
 
 
 ## How to Play
