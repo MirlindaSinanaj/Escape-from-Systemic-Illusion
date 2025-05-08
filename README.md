@@ -55,4 +55,3 @@ Some notable features include:
 - The project explores social, psychological, and philosophical themes
 - The game follows a structured format with **six narrative sections**
 - The structure is designed to be **expandable** with new rooms and events
-![image](https://github.com/user-attachments/assets/7d152fc3-d7a7-4d31-9755-72c82330c047)
