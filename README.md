@@ -17,6 +17,8 @@ The player must learn to question appearances, resist manipulation, and embrace 
 
 ## How to Play
 
+You can test the game on [itch.io](https://msinanaj.itch.io/escape-form-the-systemic-illusion). You just have to download the file corresponding to your OS, extract it and then execute the game.
+
 You can [**download the game here**](https://github.com/MirlindaSinanaj/Escape-from-Systemic-Illusion/archive/refs/tags/v1.0.tar.gz).
 
 After downloading:
